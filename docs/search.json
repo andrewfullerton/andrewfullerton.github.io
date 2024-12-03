@@ -32,20 +32,20 @@
     "href": "about.html",
     "title": "Author",
     "section": "",
-    "text": "Template for about page\n\n\n\nIt is possible to use different templates for the About page. Check this link to find out more."
+    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nI’m a graduate student in epidemiology at the University of British Columbia.\nMy research interests span epidemiology, health psychology, and health economics.\n\n\nMPH, Epidemiology & Biostatistics\nBA (Hons), Advanced Studies in the Arts & Humanities\n\n\n\nI have developed X R packages, published Y papers."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "Author",
-    "section": "Education",
-    "text": "Education\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\nUniversity of Oslo | Oslo, Norway\nMSc in Statistics | June 2018"
+    "section": "",
+    "text": "MPH, Epidemiology & Biostatistics\nBA (Hons), Advanced Studies in the Arts & Humanities"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
     "title": "Author",
-    "section": "Experience",
-    "text": "Experience\nI have developed X R packages, published Y papers."
+    "section": "",
+    "text": "I have developed X R packages, published Y papers."
   }
 ]

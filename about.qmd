@@ -17,30 +17,18 @@ about:
       href: https://github.com
 ---
 
-:::callout-note
-## Template for about page
-
-It is possible to use different templates for the About page. Check this [link](https://quarto.org/docs/websites/website-about.html) to find out more.
-
-:::
-
-
 ::: {#hero-heading}
 
-I am a researcher at University of Oslo. 
+I'm a graduate student in epidemiology at the University of British Columbia. 
 
-My work is about Electronic Health Records.
+My research interests span epidemiology, health psychology, and health economics.
 
 
 ## Education 
 
-University of Oslo | Oslo, Norway
+**MPH**, Epidemiology & Biostatistics
 
-PhD in Biostatistics | Oct 2022
-
-University of Oslo | Oslo, Norway
-
-MSc in Statistics | June 2018
+**BA (Hons)**, Advanced Studies in the Arts & Humanities
 
 ## Experience
 
