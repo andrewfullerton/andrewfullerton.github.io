@@ -1,0 +1,27 @@
+---
+title: "Hi, I'm Andrew."
+image: profile.png
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:afullert@student.ubc.ca
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/andrewjohnfullerton
+    - icon: github
+      text: Github
+      href: https://github.com/andrewfullerton
+---
+
+::: {#hero-heading}
+
+I'm a graduate student in epidemiology at the University of British Columbia. 
+
+My research interests span epidemiology, health psychology, and health economics.
+
+:::
+
